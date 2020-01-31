@@ -9,6 +9,6 @@ public class MyAgeIs {
 
 		age = currentyear - yearOfBirth;
 
-		System.out.println(" My age is " + age);
+		System.out.println(" Current age is " + age);
 	}
 }
